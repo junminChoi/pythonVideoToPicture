@@ -11,10 +11,10 @@
 ### 과제 내용
 -------------------------------------
 ##### -BackgroundSubtractorKNN
-배경 영상과, 움직이는 물체를 분리
+배경 영상과, 움직이는 물체를 분리<br>
 ![backgroundsubtractorKNN](https://user-images.githubusercontent.com/75197352/170498976-40a41eb9-53aa-47a2-8490-147a441afe33.jpg)
 ##### -findContours
-물체의 외곽선의 갯수를 리턴
+물체의 외곽선의 갯수를 리턴<br>
 ![findcontours1](https://user-images.githubusercontent.com/75197352/170498986-ff5b552f-267a-4094-9a05-8c2eaca931bf.jpg)
 ![findcontours2](https://user-images.githubusercontent.com/75197352/170498989-e6b8a877-3a64-46a2-8101-90863ca5f7c2.jpg)
 ##### -영상 가공
